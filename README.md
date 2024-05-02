@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Naaz**
 
-- 👨‍💻 All of my projects are available at [https://full-stack-developer-fbf96.web.app/](https://full-stack-developer-fbf96.web.app/)
+- 👨‍💻 All of my projects are available at [Portfolio]( https://full-stack-developer-fbf96.web.app/)
 
 - 💬 Ask me about **React, JavaScript, MERN.**
 
