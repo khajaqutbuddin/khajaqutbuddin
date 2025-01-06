@@ -1,4 +1,4 @@
-[![MasterHead]([https://media.licdn.com/dms/image/D4D12AQGg04KFQh_-PQ/article-cover_image-shrink_720_1280/0/1699236532428?e=1720051200&v=beta&t=ySiCbjw4gGCAEWG5HmfYUyCOhBkqRCwwGHmpg2BRbmM](https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif))]
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif)]
 <h1 align="center">Hi :wave:, I'm Khaja Qutbuddin</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
