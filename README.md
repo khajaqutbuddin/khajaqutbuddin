@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, JavaScript, MERN.**
 
-- ⚡ Fun fact **T think I am Funny.**
+- ⚡ Fun fact **I think I am Funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
